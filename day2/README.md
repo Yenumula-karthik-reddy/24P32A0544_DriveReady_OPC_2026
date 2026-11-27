@@ -6,10 +6,10 @@ It helps users explore what might happen when they make different decisions. It 
 
 Technologies Used
 -----------------
-Python
-LangChain
-Groq API
-Google Colab
+Python,
+LangChain,
+Groq API,
+Google Colab,
 Llama Prompt Guard
 
 Features
@@ -24,8 +24,7 @@ Includes Prompt Guard for prompt safety.
 Installation
 ------------
 Install the required library:
-bash
-pip install langchain_groq
+!pip install langchain_groq
 
 API Setup
 ---------
